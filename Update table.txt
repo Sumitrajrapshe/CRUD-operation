@@ -1,0 +1,3 @@
+SQL> UPDATE PRAJU SET NAME='RAJ' WHERE ID = 1;
+
+1 row updated.
